@@ -49,8 +49,3 @@ Para ejecutar este programa, necesitas tener instalado lo siguiente:
 ## Código
 
 El programa se basa en una ventana `tkinter` que contiene botones para cada número y operación. La lógica detrás de cada operación está implementada en funciones que actualizan la pantalla de la calculadora.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
